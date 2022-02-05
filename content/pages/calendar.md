@@ -4,19 +4,168 @@ title: Calendar
 uid: a1e69635-88cb-328b-3128-0f4ebe3c42ef
 ---
 
-| WeEK # | Topics |
-| --- | --- |
-| 1 | Class Organization |
-| 2 |  {{< br >}}{{< br >}} Choose Projects {{< br >}}{{< br >}} Exercise - A Quantitative Definition of Life {{< br >}}{{< br >}}  |
-| 3 | New Energy Sources and Personalized Medicine |
-| 4 | Biosphere Facts |
-| 5 | Project Literature Review |
-| 6 | Metabolic Networks and Learning Perl |
-| 7 | Midterm Evaluation |
-| 8 | 101 Uses for 1000 Genomes |
-| 9 | Personalized Medicine and Class Project Updates |
-| 10 |  {{< br >}}{{< br >}} Presentation on ENCODE and OMIM {{< br >}}{{< br >}} Readings Discussion and Class Project Updates {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} Aligned Genomes and Statistically Significant Mutations {{< br >}}{{< br >}} Readings Discussion and Class Project Updates (cont.) {{< br >}}{{< br >}}  |
-| 12 |  {{< br >}}{{< br >}} LWP - The World-Wide Web Library for Perl {{< br >}}{{< br >}} Readings Discussion and Class Project Updates (cont.) {{< br >}}{{< br >}}  |
-| 13 | Presentations |
-| 14 | Wrap-up
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WeEK #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Class Organization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Choose Projects
+
+Exercise - A Quantitative Definition of Life
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+New Energy Sources and Personalized Medicine
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Biosphere Facts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Project Literature Review
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Metabolic Networks and Learning Perl
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Evaluation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+101 Uses for 1000 Genomes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Personalized Medicine and Class Project Updates
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentation on ENCODE and OMIM
+
+Readings Discussion and Class Project Updates
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Aligned Genomes and Statistically Significant Mutations
+
+Readings Discussion and Class Project Updates (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+LWP - The World-Wide Web Library for Perl
+
+Readings Discussion and Class Project Updates (cont.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
